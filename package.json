@@ -1,12 +1,13 @@
 {
-  "name":"node-js",
-  "version":"1.0.0",
+  "name": "node-js",
+  "version": "1.0.0",
   "description": "a",
-  "license":"ISC",
+  "license": "ISC",
   "author": "",
   "type": "module",
   "main": "index.js",
   "dependencies": {
+    "ejs": "^4.0.1",
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
   }
